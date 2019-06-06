@@ -1,0 +1,6 @@
+1. Click the "Start Menu".
+2. Type "Advanced System Settings" and press enter.
+3. Click "Environment Variables.
+4. Select "path" in the "System Variables" window.
+5. Click new and add the directory containing your Python executable.
+6. Open the command prompt and type "python --version", if it says the version you did it right!
